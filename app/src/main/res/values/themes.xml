@@ -1,0 +1,33 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.NotificationTest" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/lab_primary</item>
+        <item name="colorOnPrimary">@color/lab_on_primary</item>
+        <item name="colorPrimaryContainer">@color/lab_primary_container</item>
+        <item name="colorOnPrimaryContainer">@color/lab_on_primary_container</item>
+        <item name="colorSecondaryContainer">@color/lab_primary_container</item>
+        <item name="colorOnSecondaryContainer">@color/lab_on_primary_container</item>
+        <item name="colorSurface">@color/lab_surface</item>
+        <item name="colorOnSurface">@color/lab_on_surface</item>
+        <item name="colorOnSurfaceVariant">@color/lab_on_surface_variant</item>
+        <item name="colorOutline">@color/lab_outline</item>
+        <item name="colorError">@color/lab_error</item>
+        <item name="android:colorBackground">@color/lab_background</item>
+        <item name="android:statusBarColor">@color/lab_primary_container</item>
+        <item name="android:navigationBarColor">@color/lab_background</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="23">true</item>
+        <item name="android:windowLightNavigationBar" tools:targetApi="27">true</item>
+    </style>
+    <style name="Theme.NotificationTest" parent="Base.Theme.NotificationTest" />
+
+    <style name="ShapeAppearance.Circular" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="LabTabText" parent="TextAppearance.Material3.TitleSmall">
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:letterSpacing">0.0</item>
+        <item name="textAllCaps">false</item>
+    </style>
+</resources>

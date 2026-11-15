@@ -1,0 +1,5 @@
+<resources>
+    <item name="notification_title" type="id" />
+    <item name="notification_description" type="id" />
+    <item name="notification_icon" type="id" />
+</resources>

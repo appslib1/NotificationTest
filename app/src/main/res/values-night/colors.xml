@@ -1,0 +1,16 @@
+<resources>
+    <color name="lab_primary">#F4C56C</color>
+    <color name="lab_on_primary">#402D00</color>
+    <color name="lab_primary_container">#443A20</color>
+    <color name="lab_on_primary_container">#FFF0B6</color>
+    <color name="lab_background">#171714</color>
+    <color name="lab_surface">#24241F</color>
+    <color name="lab_on_surface">#F1EFE6</color>
+    <color name="lab_on_surface_variant">#C5C1B5</color>
+    <color name="lab_outline">#979286</color>
+    <color name="lab_border">#3B3A32</color>
+    <color name="lab_accent">#FAA51A</color>
+    <color name="lab_on_accent">#211A08</color>
+    <color name="lab_gradient_end">#302C20</color>
+    <color name="lab_badge">#303027</color>
+</resources>

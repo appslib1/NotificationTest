@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.NotificationTest" parent="Base.Theme.NotificationTest">
+        <item name="android:statusBarColor">@color/lab_background</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

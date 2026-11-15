@@ -1,0 +1,5 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <size android:height="3dp"/>
+    <corners android:radius="999dp"/>
+    <solid android:color="@color/lab_accent"/>
+</shape>

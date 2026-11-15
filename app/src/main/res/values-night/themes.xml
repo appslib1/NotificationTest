@@ -1,0 +1,18 @@
+<resources>
+    <style name="Base.Theme.NotificationTest" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/lab_primary</item>
+        <item name="colorOnPrimary">@color/lab_on_primary</item>
+        <item name="colorPrimaryContainer">@color/lab_primary_container</item>
+        <item name="colorOnPrimaryContainer">@color/lab_on_primary_container</item>
+        <item name="colorSecondaryContainer">@color/lab_primary_container</item>
+        <item name="colorOnSecondaryContainer">@color/lab_on_primary_container</item>
+        <item name="colorSurface">@color/lab_surface</item>
+        <item name="colorOnSurface">@color/lab_on_surface</item>
+        <item name="colorOnSurfaceVariant">@color/lab_on_surface_variant</item>
+        <item name="colorOutline">@color/lab_outline</item>
+        <item name="android:colorBackground">@color/lab_background</item>
+        <item name="android:statusBarColor">#403A2B</item>
+        <item name="android:navigationBarColor">@color/lab_background</item>
+    </style>
+    <style name="Theme.NotificationTest" parent="Base.Theme.NotificationTest" />
+</resources>

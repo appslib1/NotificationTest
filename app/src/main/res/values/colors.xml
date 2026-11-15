@@ -1,0 +1,29 @@
+<resources>
+    <color name="lab_primary">#1A3E8C</color>
+    <color name="lab_on_primary">#FFFFFF</color>
+    <color name="lab_primary_container">#DBE7FF</color>
+    <color name="lab_on_primary_container">#0A1F4D</color>
+    <color name="lab_background">#F8FAFD</color>
+    <color name="lab_surface">#FFFFFF</color>
+    <color name="lab_surface_high">#EEF2F8</color>
+    <color name="lab_on_surface">#161A21</color>
+    <color name="lab_on_surface_variant">#525968</color>
+    <color name="lab_outline">#7C8598</color>
+    <color name="lab_border">#DDE3EC</color>
+    <color name="lab_divider">#E6EBF2</color>
+    <color name="lab_accent">#2563EB</color>
+    <color name="lab_on_accent">#FFFFFF</color>
+    <color name="lab_gradient_end">#F1F5FF</color>
+    <color name="lab_badge">#CCFFFFFF</color>
+    <color name="lab_error">#B3261E</color>
+    <color name="white">#FFFFFF</color>
+    <color name="ratingRed">#F5222D</color>
+    <color name="ratingAmber">#FBBC04</color>
+    <color name="ratingStarEmpty">#DDDDDD</color>
+    <color name="ratingSecondaryText">#5F6368</color>
+    <color name="faceFeature">#3C4043</color>
+    <color name="faceRed">#F0555B</color>
+    <color name="faceYellow">#FCC934</color>
+    <color name="faceHeart">#EA3B4E</color>
+    <color name="ratingButtonDisabled">#A7C4CB</color>
+</resources>
